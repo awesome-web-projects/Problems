@@ -3,7 +3,7 @@ Posting All Solved Problems here
 
 ## Long Story Mode 
 
-![lfstack](https://raw.githubusercontent.com/codersguild/Problems/main/lfstack.png)
+![lfstack1](https://raw.githubusercontent.com/codersguild/Problems/main/lfstack1.png)
 
 # Problems 
 

@@ -8,7 +8,7 @@ Posting All Solved Problems here
 
 ## Long Story Mode 
 
-![lfstack1](https://raw.githubusercontent.com/codersguild/Problems/main/lfstack1.png)
+![lfstack1](https://raw.githubusercontent.com/codersguild/Problems/main/Samples/lfstack1.png)
 
 # Solve 
 

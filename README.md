@@ -6,6 +6,7 @@ Posting All Solved Problems here
 - [Foundations To Advanced : Journey](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
 - [XOR Techniques](https://codeforces.com/blog/entry/68953)
 - [Best Algorithms Book Ever](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+- [CLRS Solutions](https://walkccc.me/CLRS/Chap01/1.1/)
 
 ## Long Story Mode 
 

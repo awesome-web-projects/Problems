@@ -1,4 +1,4 @@
-## Links : 
+## Links :
 
 - [HackerRank Problem Solving](hackerrank.com/domains/algorithms)
 - [HackerRank Data Structures](https://www.hackerrank.com/domains/data-structures)
@@ -7,7 +7,7 @@
 - [HackerRank C WarmUps](https://www.hackerrank.com/domains/c)
 - [HackerRank C++ WarmUps](https://www.hackerrank.com/domains/cpp)
 
-## Basics Stuff : 
+## Basics Stuff :
 
 - [HackerEarth Practice](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/)
 - [HackerEarth Data Structures Basics](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)

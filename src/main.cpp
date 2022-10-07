@@ -12,7 +12,7 @@ int main(int argc, char **argv, char **envp) {
    *
    * Print output to stdout
    * use std::endl for "\n", endline Eg.
-   * std::cout << a << std::endl;
+   * std::cout << a << std::endl;*
    */
 
   // Don't change return code to -1.

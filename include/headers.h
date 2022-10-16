@@ -1,5 +1,3 @@
-// https://www.codechef.com/problems/STACKS
-
 /**
  * CodeObsess (SpawnTree)
  * Copyright © 2018 CodeObsess All rights reserved

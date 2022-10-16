@@ -1,8 +1,8 @@
-cmake_minimum_required(VERSION 3.0 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.4 FATAL_ERROR)
 project(problems_project)
-set (CMAKE_CXX_STANDARD 17)
+set (CMAKE_CXX_STANDARD 20)
 
 include_directories(include)
 
-add_executable ($ENV{RUNNER} src/$ENV{CHECK}/$ENV{RUNNER}.cpp)
-set_property(TARGET $ENV{RUNNER} PROPERTY CXX_STANDARD 17)
+add_executable (main src/main.cpp)
+set_property(TARGET main PROPERTY CXX_STANDARD 17)

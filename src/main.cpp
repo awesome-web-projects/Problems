@@ -1,4 +1,5 @@
 #include <headers.h>
+extern void solution(void);
 
 int main(int argc, char **argv, char **envp) {
   std::ios::sync_with_stdio(false);
@@ -16,5 +17,7 @@ int main(int argc, char **argv, char **envp) {
    */
 
   // Don't change return code to -1.
+  solution();
+
   return 0;
 }

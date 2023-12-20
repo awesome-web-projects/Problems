@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main(void) {
+void solution(void) {
 
     int T = 0, N = 0, q = 0, temp = 0;
     long long int ec = 0, oc = 0, sum = 0;
@@ -44,5 +44,5 @@ int main(void) {
         }
     }
     
-    return 0;
+    return;
 }

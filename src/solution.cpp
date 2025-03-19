@@ -1,48 +1,20 @@
-// https://codeforces.com/contest/1744/my
-// fastest solution
 #include <bits/stdc++.h>
+#define PI 3.1415926535897932384626433832795
+#define EPS 1e-8
+#define EPS2 EPS*EPS
+#define LARGE_MODULO 998244353
+
 using namespace std;
 
 void solution(void) {
 
-    int T = 0, N = 0, q = 0, temp = 0;
-    long long int ec = 0, oc = 0, sum = 0;
-    long long int q_1 = 0, q_2 = 0;
+  int T = 0, files = 0;
+  std::cin >> T;
+  for (int test_cases = 0; test_cases < T; test_cases++) {
+    int n = 0, m = 0, A = 0, B = 0;
+    std::cin >> n >> m >> A >> B;
+    std:cout << n << " " << m << " " << A << " " << B << endl;
+  }
 
-    std::cin >> T;
-    
-    while(T--) {
-        std::cin >> N >> q;
-
-        ec = 0; oc = 0; sum = 0;
-        for (auto j = 0; j < N; j++) {
-            std::cin >> temp;
-            (temp&1LL) == 0 ? ec++ : oc++;
-            sum += temp;
-        } 
-
-        while(q--) {
-            std::cin >> q_1 >> q_2;
-            bool flag = (q_2&1LL) == 1 ? 1 : 0;
-
-            if ((q_1 == 0) && (q_2 != 0)) {
-                sum += q_2 * ec;
-                // add an odd number to even numbers.
-                if (flag) {
-                    ec = 0;
-                    oc = N;
-                }
-            } else {
-                sum += q_2 * oc;
-                // add an even number to odd numbers.
-                if (flag) {
-                    ec = N;
-                    oc = 0;
-                }
-            }
-            std::cout << sum << "\n";
-        }
-    }
-    
-    return;
+  return;
 }

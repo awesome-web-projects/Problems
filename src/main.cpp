@@ -6,6 +6,7 @@ int main(int argc, char **argv, char **envp) {
   std::cin.tie(NULL);
   std::cout.tie(NULL);
 
+  freopen("../inputs/inputs.txt", "r", stdin);
   /**
    * Take input from the stdin, Eg.
    * std::cin >> a;

@@ -114,3 +114,9 @@ input/*
 tests/*
 test/*
 .vscode/*
+*.vsidx
+*.ipch
+*.db
+*.json
+*.sqlite
+listings/codeforces/.vs/codeforces/v18/.wsuo
